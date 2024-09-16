@@ -19,4 +19,6 @@ console.log(nums)
 // advanced 
 const sonkha = [...nums, 9999] // spread operator use to copy an array
 console.log(sonkha);
+
+// 30.7
  
