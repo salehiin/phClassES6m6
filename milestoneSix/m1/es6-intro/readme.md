@@ -27,7 +27,8 @@ git push -u origin main
 # 31.3 - map - should watch again to clear
 # 31.4 - map, forEach, filter, find
 # 31.5 - reduce, recap - map, forEach, filter, find - should watch frequently 
-# 31.6
+# 31.6 - class function to create object, constructor, this, new keyword
+# 31.7 - class, extends to inherit from another class, super, inheritence - conceptual - should clear 
 
 
 # map works on each element then return result by create an array - it works on each element
