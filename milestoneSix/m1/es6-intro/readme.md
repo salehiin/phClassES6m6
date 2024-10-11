@@ -31,7 +31,21 @@ git push -u origin main
 # 31.7 - class, extends to inherit from another class, super, inheritence - conceptual - should clear 
 # 31.8 - sleep, activity, this, dotVSbracket notation
 # 31.9 - HW - important
+# 31.10 - advance ES6 concept, rest operator etc
 
+# 32.1 - primitive, non-primitive, data changes in variable - important to watch a do again
+# 32.2 - undefined VS Null
+# 32.3 - truthy vs falsy, (!x) === false, (!!x) === true
+# 32.4 - (==) VS (===)
+# 32.5 - scope - hoisting - 05:40(to clear watch again) - not clear
+# 32.6 - closure - function returns within another function
+# 32.7 - callback function - not clear watch again
+# 32.8 - arguments - conceptual - watch frequently
+# 32.9 - recap of module - import to watch again 
+    null - empty paper submitted after exam while
+    undefined - don't submit the paper 
+
+# 33    
 
 # map works on each element then return result by create an array - it works on each element
 # forEach works on each element but returns nothing
