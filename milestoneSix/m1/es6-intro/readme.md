@@ -45,9 +45,34 @@ git push -u origin main
     null - empty paper submitted after exam while
     undefined - don't submit the paper 
 
-# 33    
+# 33.1 - DNS: Domain Name System, API: Application Programming Interface  
+    API - should watch to understand API
+    https://www.google.com/search?q=what+is+an+api&oq=what+is+an+&  gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABi   ABDIHCAkQABiABNIBCDQ5OTBqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:32c638b4,vid:s7wmiS2mSXY,st:0   
+
+# 33.2 - json, JSON.stringify, JSON.parse
+# 33.3 - fetch, .then - clearly explained
+# 33.4 - Recap, fetch direct show on site, if show after click on button then should place in function
+# 33.5 - (user of users) for loop, find each object then each data under object, display data in UI - conceptual should check frequently
+# 33.6 - recap, add html element under any container then add css by JS and show data on that element
+# 33.7 - http methods - POST/GET/PUT-PATCH/DELETE, http status code, conceptual 
+# 33.8 - DevTools network tab - debug, http status code - conceptual should check frequently
+# 33.9 - catch(error), async, await, try, catch, some interview question - watch again to clear
+
+# 34.1 - cdn tailwind, hunting-phone-api project ready
+# 34.2 - forEach - have to understand, create html element by createElement, then create child element by innerHtml, then insert them by appendChild, dynamic data insert, media query(grid)
+# 34.3 - template string in fetch, find text from input field by clicking button, search functionality
+# 34.4 - recap, display first 5 data only - items = items.slice(0, 5), show all button add conditional
+# 34.5 - loading spinner - details concept
+# 34.6 - show all button functional details
+# 34.7 - show details button, id wise data find, modal
+# 34.8 - two function in same button, dynamic data show on modal, ternary
+# 34.9 - optional chaining OR, ternary operator, explain new task/hw - important conceptual 
+
 
 # map works on each element then return result by create an array - it works on each element
 # forEach works on each element but returns nothing
 # filter returns an array with which meets the condition, if nothing meets returns empty array
 # find returns only first one among which meets the condition
+
+# sudden distraction makes boring your continuous focus - like reading/coding for hours will be boring if you suddenly look at your phone which needs 12 minutes to return your focus
+# make it a habit - do whatever you do at the fullest your attention
