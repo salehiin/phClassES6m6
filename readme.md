@@ -1,31 +1,16 @@
 # …or create a new repository on the command line
-echo "# phClassES6m6" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/salehiin/phClassES6m6.git
-git push -u origin main
+# echo "# phClassES6m6" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/salehiin/phClassES6m6.git
+# git push -u origin main
 
 # …or push an existing repository from the command line
-git remote add origin https://github.com/salehiin/phClassES6m6.git
-git branch -M main
-git push -u origin main
-
-
-# …or create a new repository on the command line
-echo "# phClassES6m6" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/salehiin/phClassES6m6.git
-git push -u origin main
-
-# …or push an existing repository from the command line
-git remote add origin https://github.com/salehiin/phClassES6m6.git
-git branch -M main
-git push -u origin main
+# git remote add origin https://github.com/salehiin/phClassES6m6.git
+# git branch -M main
+# git push -u origin main
 
 # 30.1. var let constant
 # 30.2. default parameter
@@ -113,4 +98,3 @@ git push -u origin main
 
 # sudden distraction makes boring your continuous focus - like reading/coding for hours will be boring if you suddenly look at your phone which needs 12 minutes to return your focus
 # make it a habit - do whatever you do at the fullest your attention
-
