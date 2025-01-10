@@ -12,14 +12,14 @@ git remote add origin https://github.com/salehiin/phClassES6m6.git
 git branch -M main
 git push -u origin main
 
-# 1. var let constant
-# 2. default parameter
-# 3. template string
-# 4. arrow function
-# 5. destructuring and spread operator
-# 6. Object.keys, Object.values, Object.entries
-# 7. for of used in array and string
-# 8. for in loop used in object 
+# 30.1. var let constant
+# 30.2. default parameter
+# 30.3. template string
+# 30.4. arrow function
+# 30.5. destructuring and spread operator
+# 30.6. Object.keys, Object.values, Object.entries
+# 30.7. for of used in array and string
+# 30.8. for in loop used in object 
 
 # 31.0 - Basic ES6 summary
 # 31.1 - full recap of ES6
@@ -67,6 +67,28 @@ git push -u origin main
 # 34.7 - show details button, id wise data find, modal
 # 34.8 - two function in same button, dynamic data show on modal, ternary
 # 34.9 - optional chaining OR, ternary operator, explain new task/hw - important conceptual 
+
+# 35.1 - What is JS, just in time, important concep for interview
+# 35.2 - v8 concep 
+# 35.3 - execution context - GEC/FEC - concep, call stack, very important last minute 
+# 35.4 - important concep, fetch, setTimeout, single threaded - synchronous/asynchronous - important concep
+# 35.5 - promise, async, await - very important concep, fetch
+# 35.6 - setTimeout, setInterval, clearInterval
+# 35.7 - event-loop - how JS execute
+# what is js event loop - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop - have to read
+# https://www.youtube.com/watch?v=8aGhZQkoFbQ - have to watch
+# 35.8 - try-catch - error handle, finally, throw
+# 35.9 - interview questions, HW
+# text instruction - event loop - very important
+# 35.10 - have to do
+# https://latentflip.com/loupe
+# https://www.jsv9000.app/
+
+# 36_5.1 - keyboard keys - local storage(key-value pair), localStorage - getItem/setItem/removeItem/clear/length
+# 36_5.2 - JSON.stringify/parse(), very important concep, window.localStorage.setItem()
+# 36_5.3 - data save to local storage - local storage data display at UI - shopping cart - have to do obviously - very very important concep
+# 36_5.4 - Continue from the previous video - very important
+# 36_5.5 - npm --version - install node, install vite, react start
 
 
 # map works on each element then return result by create an array - it works on each element
