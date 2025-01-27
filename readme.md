@@ -20,6 +20,8 @@
 # 30.6. Object.keys, Object.values, Object.entries
 # 30.7. for of used in array and string
 # 30.8. for in loop used in object 
+# 30.9 - for number of numbers can use on array/string but object - but can use another way, for in used on object, summary
+# - hw, var/let/constant/arrow function/template literal/default parameter/spread operator/for in
 
 # 31.0 - Basic ES6 summary
 # 31.1 - full recap of ES6
